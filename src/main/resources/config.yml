@@ -1,0 +1,8 @@
+default: 'You are using the &aFSMC &rplugin.'
+reload-message: '&aFSMC &r has been reloaded.'
+no-permissions: '&cError: You lack permissions to use this command.'
+spawn-text: '&8[&aFSMC&8] &bSent to spawn.'
+join-message: true
+join-prefix: '&8[&a+&8]'
+leave-message: true
+leave-prefix: '&8[&c-&8]'

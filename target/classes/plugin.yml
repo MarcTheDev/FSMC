@@ -1,0 +1,25 @@
+name: FSMC
+version: 1.0-SNAPSHOT
+main: fsmc.fsmc.FSMC
+api-version: 1.13
+authors: [MarcTheDev]
+description: An All-in-One Plugin
+commands:
+  spawn:
+    usage: /<command>
+  setspawn:
+    usage: /<command>
+  fsmc:
+    usage: /<command>
+  motd:
+    usage: /<command>
+  nick:
+    usage: /<command>
+permissions:
+  fsmc.setspawn:
+    default: op
+  fsmc.spawn:
+    default: true
+  fsmc.nick:
+    default: true
+
